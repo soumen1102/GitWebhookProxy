@@ -1,4 +1,4 @@
-FROM golang:1.19.5-alpine
+FROM golang:1.22.7-alpine
 MAINTAINER "Stakater Team"
 
 RUN apk update
